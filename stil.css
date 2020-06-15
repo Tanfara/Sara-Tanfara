@@ -51,11 +51,11 @@ color: magenta; }
 
 
 .slika{ ;
-background-image: url("/home/amad3us/Documents/sara/Vjezba/slike/more.jpg");
+background-image: url("https://github.com/Tanfara/Sara-Tanfara/blob/master/slike/more.jpg");
 }
 
 .drugapozadina{
-background-image: url("/home/amad3us/Documents/sara/Vjezba/slike/forest.jpeg");
+background-image: url("https://github.com/Tanfara/Sara-Tanfara/blob/master/slike/forest.jpeg");
 }
 a:link{
   color: black;
