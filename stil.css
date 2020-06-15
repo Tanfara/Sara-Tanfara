@@ -1,0 +1,83 @@
+@charset "UTF-8";
+/* CSS Documents */
+
+.pozadina{background-color: lightpink;
+
+}
+.puna{background-color: lightblue;
+
+}
+.lipa{background-color: lightblue;
+  width: 480px;
+  font-family:Constantia, "Times New Roman",Times,"serif";
+}
+p{
+  color:grey;
+  font-family:Constantia, "Times New Roman",Times,"serif";
+  font-size: 16px;
+  background-color: lightyellow;
+  width: 600px;
+  padding: 20px;
+}
+
+.torta{color:magenta;
+background-color: lightyellow;
+}
+.kolac{
+font-family:Constantia, "Times New Roman",Times,"serif";
+}
+.noviizgled{ font-family:Gotham,"Helvetica Neue", Helvetica, Arial, "sans-serif";
+color: magenta; }
+.izgled{
+  font-family: "Times New Roman",Times,serif;
+  color: darkblue;
+  background-color: rgba(155, 5, 0, 0.5);
+  width: 100px;
+}
+
+.novi-blok{
+  background-color: rgba(150, 25, 50, 4);
+  padding: 20px;
+  margin: 20px;
+  width: 700px;
+}
+.novi{
+  font-family: "Helvetica Neue", Helvetica, Arial, "sans-serif";
+  color: indigo;
+  font-size: 20px ;
+  background-color: lightblue;
+  width: 400px;
+}
+
+
+.slika{ ;
+background-image: url("/home/amad3us/Documents/sara/Vjezba/slike/more.jpg");
+}
+
+.drugapozadina{
+background-image: url("/home/amad3us/Documents/sara/Vjezba/slike/forest.jpeg");
+}
+a:link{
+  color: black;
+  background-color: white;
+  padding: 5px;
+  line-height: 40px;
+  border: 1px solid #hsl(360, 100%, 100%);
+
+}
+a:hover{
+  background-color: lightpink;
+}
+
+ol{
+  color: lightblue;
+}
+ul{
+  color: lightgreen;
+}
+.boja{
+  color: darkblue;
+}
+.boja1{
+  color: rgba(100, 30, 10, 20);
+}
